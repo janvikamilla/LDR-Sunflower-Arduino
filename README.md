@@ -35,7 +35,7 @@ This project helped me understand how sensors can be used with Arduino to contro
 
 Project images and videos can be added here.
 
-![LDR Sunflower Circuit](ldr%20sunflower.PNG)
+![LDR Sunflower Circuit](circuit.png)
 
 ---
 
